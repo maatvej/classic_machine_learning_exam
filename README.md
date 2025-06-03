@@ -33,7 +33,8 @@
 │   ├── regression_cc50.ipynb                              # Ноутбук для регрессии CC50
 │   ├── regression_ic50.ipynb                              # Ноутбук для регрессии IC50
 │   └── regression_si.ipynb                                # Ноутбук для регрессии SI
-└── README.md                                              # Документация проекта
+├── README.md                                              # Документация проекта
+├── requirements.txt                                       # Необходимые библиотеки
 └── report.pdf                                             # Аналитический отчёт
 ```
 
